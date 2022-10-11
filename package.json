@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carofel/HelloWorld/issues"
   },
-  "homepage": "https://github.com/carofel/HelloWorld#readme"
+  "homepage": "https://github.com/carofel/HelloWorld#readme",
+  "publishConfig": {
+    "@carofel:registry": "https://npm.pkg.github.com"
+  }
 }
